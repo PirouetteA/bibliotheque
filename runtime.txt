@@ -1,3 +1,1 @@
-export $JAVA_HOME
-export $ANDROID_HOME
 python-3.6.5
